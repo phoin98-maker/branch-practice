@@ -1,5 +1,5 @@
 # FIZZBUZZ on update-RM
 
-## How to Start
+## Index
 
 ## Installation
